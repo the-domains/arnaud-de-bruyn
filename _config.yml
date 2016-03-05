@@ -1,0 +1,28 @@
+name: Arnaud De Bruyn
+favicon: null
+layout_spectrum: 0.3416322008706629
+typography_spectrum: 0.8569154548458755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2851588958874345
+  lightness: 0.8990923266392201
+  saturation: 0.9385426447261125
+  rhythmicContrast: 0.14820188586600125
+purpose: []
