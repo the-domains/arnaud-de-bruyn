@@ -1,6 +1,6 @@
 name: Arnaud De Bruyn
 favicon: null
-layout_spectrum: 0.3416322008706629
+layout_spectrum: 0.34022
 typography_spectrum: 0.8569154548458755
 title: "Arnaud De Bruyn's personal website"
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#292d30'
+    - '#9ea4a2'
+    - '#f8dad0'
+    - '#616b6c'
+    - '#d69391'
   brandStrength: 0.2851588958874345
   lightness: 0.8990923266392201
   saturation: 0.9385426447261125
